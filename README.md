@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Pimple</h1>
 <h3 align="center">Web Development and Flutter Enthusiast</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2Fprogramming-a-laptop-wuze1bxup48cr0bs.html&psig=AOvVaw3r1pcxvbESM7CL7TVU0Rpu&ust=1717783227446000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjtyrjHx4YDFQAAAAAdAAAAABAE">
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **rohitpimple623@gmail.com**
