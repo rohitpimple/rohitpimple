@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Pimple</h1>
 <h3 align="center">Web Development and Flutter Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/rohitpimple/rohitpimple/assets/128979080/5e506b87-6e3b-4bb5-8898-40b76ba96346)">
+
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **rohitpimple623@gmail.com**
